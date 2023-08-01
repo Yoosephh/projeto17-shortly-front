@@ -1,0 +1,249 @@
+.tela-inicial-logada {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.tela-inicial-logada .div {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.tela-inicial-logada .logo {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  left: 563px;
+  position: absolute;
+  top: 95px;
+}
+
+.tela-inicial-logada .text-wrapper {
+  color: #000000;
+  font-family: "Lexend Deca-ExtraLight", Helvetica;
+  font-size: 64px;
+  font-weight: 200;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.tela-inicial-logada .twemoji-shorts {
+  height: 102px;
+  position: relative;
+  width: 102px;
+}
+
+.tela-inicial-logada .INPUT {
+  height: 60px;
+  left: 248px;
+  position: absolute;
+  top: 333px;
+  width: 771px;
+}
+
+.tela-inicial-logada .overlap-group {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #78b15940;
+  border-radius: 12px;
+  box-shadow: 0px 4px 24px #78b1591f;
+  height: 60px;
+  position: relative;
+  width: 769px;
+}
+
+.tela-inicial-logada .p {
+  color: #9c9c9c;
+  font-family: "Lexend Deca-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 20px;
+  width: 182px;
+}
+
+.tela-inicial-logada .INPUT-2 {
+  border: 1px solid;
+  border-color: #78b15940;
+  border-radius: 12px;
+  height: 62px;
+  left: 247px;
+  position: absolute;
+  top: 451px;
+  width: 1020px;
+}
+
+.tela-inicial-logada .overlap {
+  background-color: #7fcc73;
+  border-radius: 12px 0px 0px 12px;
+  box-shadow: 0px 4px 24px #78b1591f;
+  height: 60px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 887px;
+}
+
+.tela-inicial-logada .frame {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  left: 21px;
+  position: relative;
+  top: 21px;
+  width: 772px;
+}
+
+.tela-inicial-logada .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Lexend Deca-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.tela-inicial-logada .vector-wrapper {
+  background-color: #ffffff;
+  border-radius: 0px 12px 12px 0px;
+  box-shadow: 0px 4px 24px #78b1591f;
+  height: 60px;
+  left: 888px;
+  position: absolute;
+  top: 1px;
+  width: 130px;
+}
+
+.tela-inicial-logada .vector {
+  height: 26px;
+  left: 53px;
+  position: absolute;
+  top: 17px;
+  width: 22px;
+}
+
+.tela-inicial-logada .INPUT-3 {
+  border: 1px solid;
+  border-color: #78b15940;
+  border-radius: 12px;
+  height: 62px;
+  left: 248px;
+  position: absolute;
+  top: 553px;
+  width: 1020px;
+}
+
+.tela-inicial-logada .INPUT-4 {
+  border: 1px solid;
+  border-color: #78b15940;
+  border-radius: 12px;
+  height: 62px;
+  left: 249px;
+  position: absolute;
+  top: 655px;
+  width: 1020px;
+}
+
+.tela-inicial-logada .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Lexend Deca-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.tela-inicial-logada .BOTAO {
+  height: 60px;
+  left: 1086px;
+  position: absolute;
+  top: 333px;
+  width: 184px;
+}
+
+.tela-inicial-logada .div-wrapper {
+  background-color: #5d9040;
+  border-radius: 12px;
+  height: 60px;
+  position: relative;
+  width: 182px;
+}
+
+.tela-inicial-logada .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Lexend Deca-Bold", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+}
+
+.tela-inicial-logada .text-wrapper-5 {
+  color: #5d9040;
+  font-family: "Lexend Deca-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 248px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 68px;
+}
+
+.tela-inicial-logada .text-wrapper-6 {
+  color: #9c9c9c;
+  font-family: "Lexend Deca-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 1237px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 59px;
+}
+
+.tela-inicial-logada .text-wrapper-7 {
+  color: #9c9c9c;
+  font-family: "Lexend Deca-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 1086px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 59px;
+}
+
+.tela-inicial-logada .text-wrapper-8 {
+  color: #9c9c9c;
+  font-family: "Lexend Deca-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 1154px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 59px;
+}
